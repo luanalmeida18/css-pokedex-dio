@@ -1,0 +1,25 @@
+Uma requisição é composta por:
+
+URL: http://podeapi.co(endereço/IP) /v2/pokemon(patch) ?offset=4&limit=2(query string)
+
+Request Method: GET | POST | PUT | DELETE
+ 
+Request Headers:
+    content-type = aplication/json
+
+Response Body
+{
+    "I"; "Teste"
+}
+
+
+Resposta do servidor:
+
+Status code: 201
+
+Response Headers:
+
+Response Body:
+
+
+
